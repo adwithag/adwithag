@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adwithag, a sophomore at Cheshire High School in Connecticut. 
+- 👀 I’m interested in data science and entrepreneurship.  
+- 🌱 I’m currently learning front-end and back-end development on Coursera. 
+- 💞️ I’m looking to gain real-life experience through an internship.
+- 📫 How to reach me: through Linkedln which can be found under my profile. 
